@@ -1,0 +1,19 @@
+# Bi bo de thuong Resume
+
+# Site settings
+title: Bi bo de thuong Resume
+email: email@domain.com
+description: Bi bo de thuong Resume is a mega simple resume theme for Bi bo.
+baseurl: "http://mattcouchman.co.uk/jekyll-resume/"
+url: "hanhnguyen.github.io"
+name: Matt Couchman
+job: front end engineer
+location: Birmingham, UK
+languages: HTML, CSS and Javascript
+twitter_username: hanhnguye
+github_username:  hanhnguye
+codepen_username:  hanhnguye
+email_address: some@email.com
+
+# Build settings
+markdown: kramdown
